@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "pallets-eco",
+  "repo": "flask-api-examples",
+  "versions": [
+    {
+      "commit": "837ba4323089e0fa305153dc6686413d13e6d4ae",
+      "parsed_at": "2026-10-11T08:26:35.205487+00:00",
+      "filetree": "filetree/837ba4323089e0fa305153dc6686413d13e6d4ae.nq.gz",
+      "blobs": [
+        "blob/e50a290eba9e29c5dea26df2a512361d400e93eb.nq.gz",
+        "blob/abe6a779ae014658aa62e7f027abf91caddf4e4a.nq.gz",
+        "blob/9d227a0cc43c3268d15722b763bd94ad298645a1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
